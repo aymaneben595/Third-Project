@@ -1,2 +1,3 @@
-total_transactions,fraud_transactions,fraud_rate,avg_transaction_amount,max_transaction_amount,unique_users,peak_fraud_hour,peak_fraud_date,best_model,best_model_roc_auc,best_model_accuracy,best_model_f1,run_date
-283726,473,0.167,88.47,25691.16,2000,2,2013-01-01,RandomForest,0.983,0.998,0.5841,2025-m-04 17:03:59
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad56743351223bcb6cea589db4b54dcb5d038cd3632b9738de1fd837f511f40d
+size 316
