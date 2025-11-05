@@ -25,13 +25,13 @@ Insights and results are structured around four main focus areas:
 ---
 
 🔗 **SQL ETL Script:**  
-**[View ETL & Feature Engineering (fraud_pipeline.sql)]((https://github.com/aymaneben595/Fraud-Analytics-Pipeline/blob/24ebc3b479ec05239e1eadf063bc0a072991e80a/VSCode%2C%20SQL%20%26%20Python/SQL/fraud_pipeline.sql))**
+**[View ETL & Feature Engineering (fraud_pipeline.sql)](https://github.com/aymaneben595/Fraud-Analytics-Pipeline/blob/24ebc3b479ec05239e1eadf063bc0a072991e80a/VSCode%2C%20SQL%20%26%20Python/SQL/fraud_pipeline.sql)**
 
 🐍 **Python Modeling Script:**  
-**[View EDA, Modeling & BI Export (fraud_pipeline.py)]((https://github.com/aymaneben595/Fraud-Analytics-Pipeline/blob/24ebc3b479ec05239e1eadf063bc0a072991e80a/VSCode%2C%20SQL%20%26%20Python/Python/fraud_eda_modeling.py))**
+**[View EDA, Modeling & BI Export (fraud_eda_modeling.py)](https://github.com/aymaneben595/Fraud-Analytics-Pipeline/blob/24ebc3b479ec05239e1eadf063bc0a072991e80a/VSCode%2C%20SQL%20%26%20Python/Python/fraud_eda_modeling.py)**
 
 📊 **Power BI Dashboard:**  
-**[⬇️ Download Fraud Analytics Dashboard.pbix]((https://github.com/aymaneben595/Fraud-Analytics-Pipeline/raw/24ebc3b479ec05239e1eadf063bc0a072991e80a/Power%20Bi/Dashboard.pbix))**
+**[⬇️ Download Fraud Analytics Dashboard.pbix](https://github.com/aymaneben595/Fraud-Analytics-Pipeline/raw/24ebc3b479ec05239e1eadf063bc0a072991e80a/Power%20Bi/Dashboard.pbix)**
 
 ---
 
